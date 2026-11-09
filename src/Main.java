@@ -6,7 +6,7 @@ public class Main {
         JFrame frame = new JFrame("MyFrameWithComponents");
 
         // Add a button into the frame
-        JButton jbtOK = new JButton("OK");
+        JButton jbtOK = new JButton("test");
         frame.add(jbtOK);
 
         frame.setSize(400, 300);
